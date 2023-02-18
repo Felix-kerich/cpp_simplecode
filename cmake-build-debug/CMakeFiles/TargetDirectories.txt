@@ -1,0 +1,3 @@
+/home/pc/Documents/grading.cpp/cmake-build-debug/CMakeFiles/grading_cpp.dir
+/home/pc/Documents/grading.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pc/Documents/grading.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
